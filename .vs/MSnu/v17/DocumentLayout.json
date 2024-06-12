@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\proj\\MSnu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E8BF0C-9121-481C-BE76-42EE9BDE4C63}|MSnu_dll\\MSnu_dll.vcxproj|P:\\proj\\MSnu\\MSnu_dll\\SleepAnalyzer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86E8BF0C-9121-481C-BE76-42EE9BDE4C63}|MSnu_dll\\MSnu_dll.vcxproj|solutionrelative:MSnu_dll\\SleepAnalyzer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E8BF0C-9121-481C-BE76-42EE9BDE4C63}|MSnu_dll\\MSnu_dll.vcxproj|P:\\proj\\MSnu\\MSnu_dll\\SleepAnalyzer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86E8BF0C-9121-481C-BE76-42EE9BDE4C63}|MSnu_dll\\MSnu_dll.vcxproj|solutionrelative:MSnu_dll\\SleepAnalyzer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA308085-01DE-47D6-865B-D2A675E143D1}|MSnu\\MSnu.vcxproj|P:\\proj\\MSnu\\MSnu\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA308085-01DE-47D6-865B-D2A675E143D1}|MSnu\\MSnu.vcxproj|solutionrelative:MSnu\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E8BF0C-9121-481C-BE76-42EE9BDE4C63}|MSnu_dll\\MSnu_dll.vcxproj|P:\\proj\\MSnu\\MSnu_dll\\API.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86E8BF0C-9121-481C-BE76-42EE9BDE4C63}|MSnu_dll\\MSnu_dll.vcxproj|solutionrelative:MSnu_dll\\API.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API.h",
+              "DocumentMoniker": "P:\\proj\\MSnu\\MSnu_dll\\API.h",
+              "RelativeDocumentMoniker": "MSnu_dll\\API.h",
+              "ToolTip": "P:\\proj\\MSnu\\MSnu_dll\\API.h",
+              "RelativeToolTip": "MSnu_dll\\API.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T13:10:38.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "P:\\proj\\MSnu\\MSnu\\main.cpp",
+              "RelativeDocumentMoniker": "MSnu\\main.cpp",
+              "ToolTip": "P:\\proj\\MSnu\\MSnu\\main.cpp",
+              "RelativeToolTip": "MSnu\\main.cpp",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAcwC4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T18:59:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SleepAnalyzer.cpp",
+              "DocumentMoniker": "P:\\proj\\MSnu\\MSnu_dll\\SleepAnalyzer.cpp",
+              "RelativeDocumentMoniker": "MSnu_dll\\SleepAnalyzer.cpp",
+              "ToolTip": "P:\\proj\\MSnu\\MSnu_dll\\SleepAnalyzer.cpp",
+              "RelativeToolTip": "MSnu_dll\\SleepAnalyzer.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T18:01:09.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SleepAnalyzer.h",
+              "DocumentMoniker": "P:\\proj\\MSnu\\MSnu_dll\\SleepAnalyzer.h",
+              "RelativeDocumentMoniker": "MSnu_dll\\SleepAnalyzer.h",
+              "ToolTip": "P:\\proj\\MSnu\\MSnu_dll\\SleepAnalyzer.h",
+              "RelativeToolTip": "MSnu_dll\\SleepAnalyzer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T17:59:41.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

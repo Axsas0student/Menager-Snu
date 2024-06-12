@@ -1,0 +1,14 @@
+﻿  SleepAnalyzer.cpp
+P:\proj\MSnu\MSnu_dll\SleepAnalyzer.h(23,28): warning C4251: "SleepAnalyzer::sleepData": class "std::vector<SleepData,std::allocator<SleepData>>" wymaga posiadania użycia interfejsu biblioteki dll przez klientów class "SleepAnalyzer"
+  (kompilowanie pliku źródłowego „SleepAnalyzer.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  zobacz deklarację „std::vector<SleepData,std::allocator<SleepData>>”
+  
+P:\proj\MSnu\MSnu_dll\SleepAnalyzer.cpp(17,24): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+     Trwa tworzenie biblioteki P:\proj\MSnu\x64\Debug\MSnu_dll.lib i obiektu P:\proj\MSnu\x64\Debug\MSnu_dll.exp
+  MSnu_dll.vcxproj -> P:\proj\MSnu\x64\Debug\MSnu_dll.dll
+  P:\proj\MSnu\MSnu_dll\API.h
+  P:\proj\MSnu\MSnu_dll\SleepAnalyzer.h
+          2 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.

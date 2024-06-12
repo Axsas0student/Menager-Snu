@@ -1,0 +1,7 @@
+﻿  main.cpp
+P:\include\SleepAnalyzer.h(23,28): warning C4251: "SleepAnalyzer::sleepData": class "std::vector<SleepData,std::allocator<SleepData>>" wymaga posiadania użycia interfejsu biblioteki dll przez klientów class "SleepAnalyzer"
+  (kompilowanie pliku źródłowego „main.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  zobacz deklarację „std::vector<SleepData,std::allocator<SleepData>>”
+  
+  MSnu.vcxproj -> P:\proj\MSnu\x64\Debug\MSnu.exe
